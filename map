@@ -1,0 +1,4 @@
+<!-- Add script to the <head> of your page to load the embeddable map component -->
+<script type="module" src="https://js.arcgis.com/embeddable-components/4.33/arcgis-embeddable-components.esm.js"></script>
+<!-- Add custom element to <body> of your page -->
+ <arcgis-embedded-map style="height:600px;width:700px;" item-id="db757eed3cb247969b51137efcd8e384" theme="dark" heading-enabled legend-enabled share-enabled center="39.857088833897016,36.10044684323214"scale="2311162.217155" portal-url="https://www.arcgis.com" ></arcgis-embedded-map>
